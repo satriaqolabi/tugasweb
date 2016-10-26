@@ -1,0 +1,191 @@
+
+	@font-face{
+		src: url('font/OpenSans-Semibold.ttf');
+		font-family: 'homefont';
+	}
+/*header*/
+	body{
+		margin: 0px;
+		padding: 0px;
+	}
+
+	.logo{
+		float: left;
+		width: 30px;
+		height: 30px;
+		padding-left: 30px;
+		margin-top: 8px;
+	}
+
+	.logosmk{
+		float: left;
+		height: 90px;
+		width: 90px;
+		margin-top: 1px; 
+
+	}
+
+	.aa{
+		width: 100%;
+		background-color: #FFFFFF;
+		margin: 0 auto;
+		margin-top: 11px;
+		position: fixed;
+	}
+
+	.padd{
+		width: 80%;
+		margin: 0 auto;
+	}
+
+	header{
+		background-color: #21252B;
+		height: 50px;
+	}
+
+	.clear{
+		clear: both;
+	}
+
+	.bacaan{
+		font-size: 22px;
+		margin-top: 7px;
+	}
+
+	.menu{
+		font-size: 2px;
+	}
+
+	.underwrapper li{
+		padding-left: 30px;
+		margin-top: 25px;
+	}
+
+	.underwrapper a{
+		text-decoration: none;
+		color: #6F7175;
+	}
+
+	.email a{
+		text-decoration: none;
+		color: #FFFFFF;
+	}
+	
+
+	header nav a:hover{
+		background-color: none;
+		color: #0DC0C0;
+	}
+
+	body ul{
+		margin: 0px;
+		padding: 0px;
+	}
+
+	header nav ul{
+		list-style: none;
+	}
+
+	header nav ul li{
+		float: left;
+		padding-left: 5px;
+		color: #FFFFFF;
+		margin-top: 13px;
+		font-family: 'homefont';
+		font-size: 15px;
+	}
+/*header*/
+
+/*section*/
+
+	.gambar{
+		width: 100%;
+	}
+
+	#content{
+		width: 80%;
+		margin: 0 auto;
+	}
+
+	#content .banner{
+		width: 50%;
+		float: left;
+	}
+
+	#content .banner .pad{
+		margin-top: 10px;
+		margin-right: 10px;
+		padding: 10px;
+		color: black;
+	}
+
+	.inlogo{
+		width: 100%;
+	}
+
+	.GALLERY{
+		font-family: 'homefont';
+		font-size: 25px;
+		color: #0DC0C0;
+	}
+
+	.inlogo1{
+		height: 356px;
+		width: 100%
+	}
+
+	.Quotes{
+		background-color: #00CDAE;
+		height: 300px;
+		color: #FFFFFF;
+		font-size: 25px;
+		font-family: 'homefont';
+		margin-top: 0px;
+	}
+
+/*section*/
+
+/*footer*/
+
+
+	footer{
+		background: #21252B;
+		width: 100%;
+		margin-top:20px;
+		color: #858D91;
+		font-family: 'homefont'
+	}
+
+
+	footer li{
+		list-style: none;
+	}
+
+	footer ul{
+		width: 20%;
+		float: left;
+		margin-top: 0px;
+		padding-left: 40px;
+
+	}
+
+	footer ul li a{
+		text-decoration: none;
+		color: #FFFFFF;
+		margin-top: 1px; 
+	}
+
+	footer ul li a:hover{
+		color: #0DC0C0
+	}
+
+	.a{
+		color: #FFFFFF;
+	}
+
+/*footer*/
+
+.ww{
+	margin-top: 100px;
+}
+
